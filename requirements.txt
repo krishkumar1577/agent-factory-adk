@@ -1,0 +1,4 @@
+google-cloud-aiplatform
+google-cloud-firestore
+flask
+python-dotenv
